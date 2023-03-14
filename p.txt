@@ -1,0 +1,11 @@
+Luni;07,00;Telejurnal matinal;jurnal;stiri;120
+Luni;21,00;Star wars;film;S.F;90
+Marti;09,10;Stiri sportive;sport;fotbal;30
+Luni;09,00;Gala Umorului;show;divertisment;60
+Joi;22,45;Stiri sportive;sport;handbal;40
+Marti;09,00;Lord of the Rings;film;aventura;120
+Miercuri;22,00;Lola;film;comedie;88
+Joi;09,20;Telejurnal;jurnal;stiri;60
+Joi;19,45;Stiri sportive;sport;tenis;15
+Vineri;07,00;Telejurnal matinal;jurnal;stiri;90
+Vineri;21,10;Dear John;film;romantic;81;
